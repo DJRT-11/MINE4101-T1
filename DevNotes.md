@@ -3,8 +3,8 @@
 ### Univariate
 
 #### Location
+- Bar plot per neighbourhood, organized by number of listings
 - Mapped coordinates
-- Histogram per neighbourhood/borough
 
 #### Price
 - Distribution / Box chart?
@@ -12,7 +12,7 @@
 
 #### Property + Room Type
 - Frequency of types
-- Frequency of accommodations (bathrooms+bedrooms+beds combinations)
+- Frequency of accommodated people per type
 
 #### Availability
 - Histogram of 30 days
