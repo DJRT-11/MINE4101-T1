@@ -15,16 +15,21 @@
 - Frequency of accommodated people per type
 
 #### Availability
-- Histogram of 30 days
+- Joint bar for 30, 60 and 90 days
+
+#### Demand
 - Approximate booking seasons per review dates (from reviews.csv)
 
-#### Review scores
-- Frequency of scores in each category
-
 ### Bivariate
-- Review scores "heatmap" per category
+- Price correlations: number of listings, availability, amenity score
 - Location vs price vs scores: determine the most prolific boroughs
-- Price vs features + reviews: determine the best valued accommodations
-- Feature frequency heatmap per coordinates: locate the zone with best accomodations
 - Availability vs zone: consider zones with greater availability
-- Best 3 zones, estimate profit for year using calendar availability + availability + review daye
+- Best 3 zones, estimate profit for year using calendar availability + availability + review date
+
+### Conclusion: HACKNEY
+Factors:
+- Not top number of listings, but less availability = more demand, slightly less competition
+- High overall score = better reputation of the neighbourhood
+- Low amenity score = small investments can make listings stand out
+
+Best neighbourhood to invest: HACKNEY
