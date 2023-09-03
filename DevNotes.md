@@ -23,7 +23,6 @@
 ### Bivariate
 - Price correlations: number of listings, availability, amenity score
 - Location vs price vs scores: determine the most prolific boroughs
-- Availability vs zone: consider zones with greater availability
 - Best 3 zones, estimate profit for year using calendar availability + availability + review date
 
 ### Conclusion: HACKNEY
