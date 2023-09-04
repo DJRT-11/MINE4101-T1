@@ -1,0 +1,7 @@
+### <u>For ease of reading, this file is also available in .PDF format</u>
+
+According to the results displayed in the "01 - Initial Data Understanding" notebook, our strategy will be first focused towards discovering which of multiple variables has a higher correlation with the overall score of each listing. This can be used as a first approach towards which of the aspects needs to be more heavily invested towards in order to acquire a higher overall score for a listing.
+
+Using a similar correlation analysis, we will then show how the average listing price in each borough is related to variables like the total number of listings, the availability for the next 30, 60, and 90 days, and our calculated 'amenity score'. This can help in determining the relevance of raw offer (number of listings), demand (availability), and quality of listings (amenity score) in the price, and this can later be used to find potential areas of investment that may raise the acceptable price of the listings.
+
+To provide the final scope on which boroughs could be the best investment option, we will calculate and display the average profit per reservation in each borough. This could help in indentifying boroughs with outstanding high prices that it would be better to avoid, since they would not attract the majority of potential guests, while also helping in selecting one or more boroughs with decent average prices per booking. This, in relation to the availability of each borough in the future, can be used to determine a potentially profitable borough in which to invest.
